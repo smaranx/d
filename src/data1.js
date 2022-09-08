@@ -2896,7 +2896,7 @@ export default [
   {
     HolderAddress: "0xde737130a939f2B364834a3C6b721f72f5718e72",
     Capital: "$7,000",
-    Quantity: "$14,000",
+    Quantity: "$14,700",
     profit: "110%",
     percentage: "1.066622252%",
   },
